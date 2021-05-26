@@ -1,0 +1,1 @@
+C:\Users\Fµbio\.virtualenvs\config_-6KoHy6he\Scripts\python.exe C:\Temp\config_\manage.py runserver
